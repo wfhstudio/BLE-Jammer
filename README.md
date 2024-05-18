@@ -1,1 +1,13 @@
 # BLE-Jammer
+
+Components;
+ESP32
+NRF24L01
+
+Wiring
+NRF24L01 to ESP32
+SCK=14
+MISO=12
+MOSI=13
+CS=15
+CE=16
